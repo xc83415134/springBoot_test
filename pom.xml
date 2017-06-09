@@ -51,6 +51,16 @@
             <artifactId>mysql-connector-java</artifactId>
         </dependency>
 
+
+        <!-- https://mvnrepository.com/artifact/ro.pippo/pippo-fastjson -->
+        <dependency>
+            <groupId>ro.pippo</groupId>
+            <artifactId>pippo-fastjson</artifactId>
+            <version>1.1.0</version>
+            <scope>system</scope>
+            <systemPath>D:/fastjson-1.2.8.jar</systemPath>
+        </dependency>
+
     </dependencies>
 
     <build>
